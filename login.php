@@ -12,9 +12,7 @@
     <title>تسجيل دخول</title>
 </head>
 <body>
-
-
-
+<!-- الرجاء الاهتمام اكثر وشكرا  -->
 
 <div class="log" >
 <h1 class="header_font">تسجيل دخول</h1>
